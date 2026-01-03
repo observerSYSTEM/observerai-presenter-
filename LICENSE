@@ -1,0 +1,60 @@
+ObserverAI Presenter Open-Core License
+Version 1.0
+
+Copyright (c) 2026 ObserverAI
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to use,
+copy, and modify the Software for personal, educational, or internal evaluation
+purposes only, subject to the following conditions:
+
+1. NON-COMMERCIAL USE ONLY
+
+The Software may NOT be used, in whole or in part, for any commercial purpose,
+including but not limited to:
+
+- Selling, licensing, sublicensing, or monetising the Software
+- Offering the Software as a hosted service (SaaS, PaaS, or similar)
+- Using the Software in a paid product, service, or subscription
+- Reselling derivative works based on the Software
+- Using the Software to generate revenue directly or indirectly
+
+Commercial usage requires a separate commercial license or a subscription to
+ObserverAI Presenter Cloud.
+
+2. NO IMPERSONATION OR MISUSE
+
+The Software must NOT be used for:
+- Impersonation of real individuals without explicit consent
+- Deceptive, fraudulent, or misleading activities
+- Violation of privacy, identity, or likeness rights
+- Any unlawful or unethical purpose
+
+3. ATTRIBUTION
+
+Any permitted use of the Software must retain the original copyright notice,
+this license text, and all references to ObserverAI.
+
+4. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+OR OTHER DEALINGS IN THE SOFTWARE.
+
+5. TERMINATION
+
+Any violation of this License automatically terminates your rights to use the
+Software under this License.
+
+6. COMMERCIAL LICENSING
+
+For commercial licensing, managed rendering, live virtual camera functionality,
+API access, or enterprise usage, please use ObserverAI Presenter Cloud or contact
+ObserverAI directly.
+
+END OF TERMS
