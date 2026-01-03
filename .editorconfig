@@ -1,0 +1,71 @@
+# EditorConfig is awesome: https://editorconfig.org
+# This file enforces consistent coding styles across editors and IDEs
+
+root = true
+
+# -----------------------------
+# Global defaults
+# -----------------------------
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 2
+
+# -----------------------------
+# Markdown & docs
+# -----------------------------
+[*.md]
+trim_trailing_whitespace = false
+max_line_length = off
+
+# -----------------------------
+# Python
+# -----------------------------
+[*.py]
+indent_size = 4
+max_line_length = 88
+
+# -----------------------------
+# JavaScript / TypeScript
+# -----------------------------
+[*.js]
+indent_size = 2
+
+[*.ts]
+indent_size = 2
+
+[*.tsx]
+indent_size = 2
+
+# -----------------------------
+# JSON / YAML / Config
+# -----------------------------
+[*.json]
+indent_size = 2
+
+[*.yml]
+indent_size = 2
+
+[*.yaml]
+indent_size = 2
+
+# -----------------------------
+# Shell scripts
+# -----------------------------
+[*.sh]
+indent_size = 2
+
+# -----------------------------
+# Docker
+# -----------------------------
+[Dockerfile]
+indent_size = 2
+
+# -----------------------------
+# Environment files
+# -----------------------------
+[.env]
+insert_final_newline = true
