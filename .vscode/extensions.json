@@ -1,0 +1,26 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+
+    "bradlc.vscode-tailwindcss",
+    "heybourn.headwind",
+    "csstools.postcss",
+
+    "xabikos.javascriptsnippets",
+    "ms-vscode.vscode-typescript-next",
+
+    "humao.rest-client",
+    "mikestead.dotenv",
+
+    "eamodio.gitlens",
+    "yzhang.markdown-all-in-one",
+
+    "streetsidesoftware.code-spell-checker",
+    "redhat.vscode-yaml"
+  ],
+  "unwantedRecommendations": []
+}
